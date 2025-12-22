@@ -1,6 +1,6 @@
 # Welcome 👋
 ```go
-fmt.Println("I'm writing go...")
+fmt.Println("writing go...")
 ```
 
 ---
